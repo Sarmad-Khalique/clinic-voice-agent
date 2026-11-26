@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "httpx>=0.28.1",
-    "livekit-agents[deepgram,silero,turn-detector]>=1.9.0",
+    "livekit-agents[deepgram,google,silero,turn-detector]>=1.9.0",
 ]
 
 [build-system]
